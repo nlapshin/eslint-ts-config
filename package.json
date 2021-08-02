@@ -20,8 +20,8 @@
     "type": "git",
     "url": "git+https://github.com/nlapshin/eslint-ts-config.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Nikolay Lapshin <nlapshin1989@gmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/nlapshin/eslint-ts-config/issues"
   },
