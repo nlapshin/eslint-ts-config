@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Eslint typescript config",
   "main": "index.js",
-  "devDependencies": {
-    "eslint": "^7.32.0"
+  "publishConfig": {
+    "access": "public"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^4.29.0",
@@ -13,6 +13,9 @@
     "eslint-plugin-import": "^2.23.4",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^5.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
